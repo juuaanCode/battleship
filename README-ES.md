@@ -8,7 +8,7 @@ Aunque todo este sistema se basa en el juego famoso "Hundir la flota", la intenc
 
 ## Resumen Principal
 
-El programa crea diferentes barcos que interactúan con un fichero de entrada (hay alugnos ejemplos en la [carpeta inputfiles](/inputfiles/)). Cada carácter se corresponde con un _token_ que solo puede ser leído una vez y por un solo barco.
+El programa crea diferentes barcos que interactúan con un fichero de entrada (hay algunos ejemplos en la [carpeta inputfiles](/inputfiles/)). Cada carácter se corresponde con un _token_ que solo puede ser leído una vez y por un solo barco.
 
 | Token | Significado |
 |-------|-------------|
